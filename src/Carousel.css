@@ -1,0 +1,52 @@
+.carousel {
+  position: relative;
+  left: 30%;
+  width: 100%;
+  overflow: hidden;
+  max-width: 650px;
+  max-height: 650px;
+}
+
+.carousel-inner {
+  display: flex;
+  transition: transform 0.22s ease-out;
+  
+}
+
+.slide {
+  flex: 0 0 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-height: 90vh;
+}
+
+.slide img {
+  max-width: 650px;
+  max-height: 650px;
+  object-fit: cover; /* This property ensures the image covers the entire container without distortion */
+}
+
+.prev-button,
+.next-button {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: #ffffff31;
+  border: none;
+  color: #fff;
+  padding: 7px 7px 8px 7px;
+  border-radius: 9999px;
+  font-size: 18px;
+  cursor: pointer;
+  z-index: 1;
+}
+
+.prev-button {
+  left: 10px;
+}
+
+.next-button {
+  right: 10px;
+}
