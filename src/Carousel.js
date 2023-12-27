@@ -1,16 +1,16 @@
 import React, { useState } from 'react';
 import './Carousel.css';
 
-const Carousel = ({ images }) => {
+const Carousel = ({ imagesSrc }) => {
   const [currentIndex, setCurrentIndex] = useState(0);
 
   const nextSlide = () => {
-    setCurrentIndex((prevIndex) => (prevIndex + 1) % images.length);
+    setCurrentIndex((prevIndex) => (prevIndex + 1) % imagesSrc.length);
   };
 
   const prevSlide = () => {
     setCurrentIndex((prevIndex) =>
-      prevIndex === 0 ? images.length - 1 : prevIndex - 1
+      prevIndex === 0 ? imagesSrc.length - 1 : prevIndex - 1
     );
   };
 
@@ -22,7 +22,7 @@ const Carousel = ({ images }) => {
           transform: `translateX(-${currentIndex * 100}%)`,
         }}
       >
-        {images.map((image, index) => (
+        {imagesSrc.map((image, index) => (
           <div key={index} className="slide">
             <img src={image} alt={`Image ${index}`} />
           </div>

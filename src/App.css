@@ -1,4 +1,6 @@
 .App {
+  display: flex;
+  align-items: center;
   text-align: center;
   max-height: 90vh;
   max-width: 80vw;
@@ -31,6 +33,7 @@
 .App-link {
   color: #61dafb;
 }
+
 
 @keyframes App-logo-spin {
   from {
