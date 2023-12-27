@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/instagramLike-carousel/static/css/main.781143cf.css",
+    "main.js": "/instagramLike-carousel/static/js/main.552904ee.js",
+    "static/js/787.0a385619.chunk.js": "/instagramLike-carousel/static/js/787.0a385619.chunk.js",
+    "static/media/4_02.png": "/instagramLike-carousel/static/media/4_02.5d26f5ec61a98ad89594.png",
+    "static/media/4_05.png": "/instagramLike-carousel/static/media/4_05.be2c1d28d7da248f733b.png",
+    "static/media/4_01.png": "/instagramLike-carousel/static/media/4_01.42c524f4aa12f2b11eef.png",
+    "static/media/4_03.png": "/instagramLike-carousel/static/media/4_03.6693d42a1a68fcc5e8f7.png",
+    "static/media/4_04.png": "/instagramLike-carousel/static/media/4_04.b3c7914d4175c67a82a2.png",
+    "index.html": "/instagramLike-carousel/index.html",
+    "main.781143cf.css.map": "/instagramLike-carousel/static/css/main.781143cf.css.map",
+    "main.552904ee.js.map": "/instagramLike-carousel/static/js/main.552904ee.js.map",
+    "787.0a385619.chunk.js.map": "/instagramLike-carousel/static/js/787.0a385619.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.781143cf.css",
+    "static/js/main.552904ee.js"
+  ]
+}
