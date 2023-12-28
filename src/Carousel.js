@@ -29,10 +29,10 @@ const Carousel = ({ imagesSrc }) => {
         ))}
       </div>
       <button className="prev-button" onClick={prevSlide}>
-      ←
+       <i class="fas fa-chevron-left"></i>
       </button>
       <button className="next-button" onClick={nextSlide}>
-      →
+        <i class="fas fa-chevron-right"></i>
       </button>
     </div>
   );

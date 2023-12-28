@@ -1,4 +1,6 @@
 import React from 'react';
+import './App.css';
+import './awesome6/css/all.css'
 import Carousel from './Carousel';
 
 // Importa todas as imagens da pasta
@@ -8,7 +10,7 @@ const imagesSrc = importAll(require.context('./assets', false, /\.(png)$/));
 const App = () => {
   return (
     <div className="App">
-      <h1>Instagram Carousel tester</h1>
+      <h1> <i class="fab fa-instagram"></i> Carousel tester </h1>
       <Carousel imagesSrc={imagesSrc} />
     </div>
   );

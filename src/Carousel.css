@@ -1,10 +1,9 @@
 .carousel {
   position: relative;
-  left: 30%;
   width: 100%;
   overflow: hidden;
-  max-width: 650px;
-  max-height: 650px;
+  max-width: 850px;
+  max-height: 850px;
 }
 
 .carousel-inner {
@@ -23,8 +22,8 @@
 }
 
 .slide img {
-  max-width: 650px;
-  max-height: 650px;
+  max-width: 850px;
+  max-height: 850px;
   object-fit: cover; /* This property ensures the image covers the entire container without distortion */
 }
 
@@ -33,11 +32,11 @@
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
-  background-color: #ffffff31;
+  background-color: #ffffffda;
   border: none;
-  color: #fff;
-  padding: 7px 7px 8px 7px;
-  border-radius: 9999px;
+  color: #0202027e;
+  padding: 7px 11px 4px 9px;
+  border-radius: 50%;
   font-size: 18px;
   cursor: pointer;
   z-index: 1;
@@ -49,4 +48,24 @@
 
 .next-button {
   right: 10px;
+}
+
+
+@media screen and (max-height: 890px) {
+  .carousel, .slide img {
+    width: 650px;
+    height: 650px;
+  }
+  @media (max-height: 740px) {
+    .carousel, .slide img {
+      width: 520px;
+      height: 520px;
+    }
+  }
+  @media (max-height: 610px) {
+    .carousel, .slide img {
+      width: 400px;
+      height: 400px;
+    }
+  }
 }
