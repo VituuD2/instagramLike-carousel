@@ -2,7 +2,7 @@
   position: relative;
   width: 100%;
   overflow: hidden;
-  max-width: 850px;
+  max-width: 520px;
   max-height: 850px;
 }
 
@@ -22,7 +22,7 @@
 }
 
 .slide img {
-  max-width: 850px;
+  max-width: 520px;
   max-height: 850px;
   object-fit: cover; /* This property ensures the image covers the entire container without distortion */
 }
