@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/instagramLike-carousel/static/css/main.641d5273.css",
-    "main.js": "/instagramLike-carousel/static/js/main.2c174fcd.js",
+    "main.css": "/instagramLike-carousel/static/css/main.c9a05f5f.css",
+    "main.js": "/instagramLike-carousel/static/js/main.a0a831b8.js",
     "static/js/787.0a385619.chunk.js": "/instagramLike-carousel/static/js/787.0a385619.chunk.js",
     "static/media/fa-duotone-900.svg": "/instagramLike-carousel/static/media/fa-duotone-900.a11a48961a601d2926c5.svg",
     "static/media/fa-light-300.svg": "/instagramLike-carousel/static/media/fa-light-300.329ac15a79cc35c363f6.svg",
@@ -33,13 +33,14 @@
     "static/media/fa-brands-400.ttf": "/instagramLike-carousel/static/media/fa-brands-400.3059d606e43fea58d959.ttf",
     "static/media/fa-brands-400.woff": "/instagramLike-carousel/static/media/fa-brands-400.13a061ea7f526a9e20fd.woff",
     "static/media/fa-brands-400.woff2": "/instagramLike-carousel/static/media/fa-brands-400.29ff4724bd1b1e774a01.woff2",
+    "static/media/TJztmXpWTmS.png": "/instagramLike-carousel/static/media/TJztmXpWTmS.387bf53876c9c71c60c0.png",
     "index.html": "/instagramLike-carousel/index.html",
-    "main.641d5273.css.map": "/instagramLike-carousel/static/css/main.641d5273.css.map",
-    "main.2c174fcd.js.map": "/instagramLike-carousel/static/js/main.2c174fcd.js.map",
+    "main.c9a05f5f.css.map": "/instagramLike-carousel/static/css/main.c9a05f5f.css.map",
+    "main.a0a831b8.js.map": "/instagramLike-carousel/static/js/main.a0a831b8.js.map",
     "787.0a385619.chunk.js.map": "/instagramLike-carousel/static/js/787.0a385619.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.641d5273.css",
-    "static/js/main.2c174fcd.js"
+    "static/css/main.c9a05f5f.css",
+    "static/js/main.a0a831b8.js"
   ]
 }
