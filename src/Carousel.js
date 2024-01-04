@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './Carousel.css';
+import './style/Carousel.css';
 
 const Carousel = ({ imagesSrc }) => {
   const [currentIndex, setCurrentIndex] = useState(0);
@@ -29,10 +29,10 @@ const Carousel = ({ imagesSrc }) => {
         ))}
       </div>
       <button className="prev-button" onClick={prevSlide}>
-       <i class="fas fa-chevron-left"></i>
+       <div className="left-arrow"></div>
       </button>
       <button className="next-button" onClick={nextSlide}>
-        <i class="fas fa-chevron-right"></i>
+      <div className="right-arrow"></div>
       </button>
     </div>
   );
