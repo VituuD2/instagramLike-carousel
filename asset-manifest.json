@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/instagramLike-carousel/static/css/main.0de5880d.css",
-    "main.js": "/instagramLike-carousel/static/js/main.053a33e0.js",
+    "main.css": "/instagramLike-carousel/static/css/main.641d5273.css",
+    "main.js": "/instagramLike-carousel/static/js/main.2c174fcd.js",
     "static/js/787.0a385619.chunk.js": "/instagramLike-carousel/static/js/787.0a385619.chunk.js",
     "static/media/fa-duotone-900.svg": "/instagramLike-carousel/static/media/fa-duotone-900.a11a48961a601d2926c5.svg",
     "static/media/fa-light-300.svg": "/instagramLike-carousel/static/media/fa-light-300.329ac15a79cc35c363f6.svg",
     "static/media/fa-regular-400.svg": "/instagramLike-carousel/static/media/fa-regular-400.18658d17d9e38ca06895.svg",
     "static/media/fa-solid-900.svg": "/instagramLike-carousel/static/media/fa-solid-900.c1df6dae72efa4b135b7.svg",
-    "static/media/6_03.png": "/instagramLike-carousel/static/media/6_03.5a0856bc38fc36106224.png",
-    "static/media/6_01.png": "/instagramLike-carousel/static/media/6_01.e8e8183506f9cc340701.png",
-    "static/media/6_05.png": "/instagramLike-carousel/static/media/6_05.9b55184621d95d4f8595.png",
+    "static/media/1_04.png": "/instagramLike-carousel/static/media/1_04.62926326bebf1f3ba938.png",
+    "static/media/1_02.png": "/instagramLike-carousel/static/media/1_02.6183a3e8ef35fa5653ce.png",
+    "static/media/1_03.png": "/instagramLike-carousel/static/media/1_03.da086ec4548dd0d52032.png",
+    "static/media/1_01.png": "/instagramLike-carousel/static/media/1_01.e04aa2b108541376e928.png",
+    "static/media/1_05.png": "/instagramLike-carousel/static/media/1_05.dd6b11d1ca905dae3679.png",
     "static/media/fa-brands-400.svg": "/instagramLike-carousel/static/media/fa-brands-400.9ed8ad4651c7586b577e.svg",
-    "static/media/6_04.png": "/instagramLike-carousel/static/media/6_04.4bf3b0cf5bf2661f85c5.png",
-    "static/media/6_02.png": "/instagramLike-carousel/static/media/6_02.f7c732a053dcb69db2f5.png",
     "static/media/fa-duotone-900.eot": "/instagramLike-carousel/static/media/fa-duotone-900.e6df3ccd2c18fa4aa999.eot",
     "static/media/fa-duotone-900.ttf": "/instagramLike-carousel/static/media/fa-duotone-900.e4227bedad83d59656b4.ttf",
     "static/media/fa-light-300.eot": "/instagramLike-carousel/static/media/fa-light-300.1bdff46d9f25dde635e0.eot",
@@ -34,12 +34,12 @@
     "static/media/fa-brands-400.woff": "/instagramLike-carousel/static/media/fa-brands-400.13a061ea7f526a9e20fd.woff",
     "static/media/fa-brands-400.woff2": "/instagramLike-carousel/static/media/fa-brands-400.29ff4724bd1b1e774a01.woff2",
     "index.html": "/instagramLike-carousel/index.html",
-    "main.0de5880d.css.map": "/instagramLike-carousel/static/css/main.0de5880d.css.map",
-    "main.053a33e0.js.map": "/instagramLike-carousel/static/js/main.053a33e0.js.map",
+    "main.641d5273.css.map": "/instagramLike-carousel/static/css/main.641d5273.css.map",
+    "main.2c174fcd.js.map": "/instagramLike-carousel/static/js/main.2c174fcd.js.map",
     "787.0a385619.chunk.js.map": "/instagramLike-carousel/static/js/787.0a385619.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0de5880d.css",
-    "static/js/main.053a33e0.js"
+    "static/css/main.641d5273.css",
+    "static/js/main.2c174fcd.js"
   ]
 }
