@@ -54,18 +54,21 @@
 @media screen and (max-height: 890px) {
   .carousel, .slide img {
     width: 650px;
-    height: 650px;
   }
   @media (max-height: 740px) {
     .carousel, .slide img {
       width: 520px;
-      height: 520px;
     }
   }
   @media (max-height: 610px) {
     .carousel, .slide img {
       width: 400px;
-      height: 400px;
+    }
+  }
+  @media (max-width: 400px) {
+    .carousel, .slide img {
+      max-width: 380px;
+      overflow: hidden;
     }
   }
 }
