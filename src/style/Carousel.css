@@ -52,23 +52,41 @@
 }
 
 
-@media screen and (max-height: 890px) {
+@media screen and (max-width: 890px) {
   .carousel, .slide img {
     width: 650px;
   }
-  @media (max-height: 740px) {
+  @media (max-width: 740px) {
     .carousel, .slide img {
       width: 520px;
     }
   }
-  @media (max-height: 610px) {
+  @media (max-width: 610px) {
     .carousel, .slide img {
       width: 400px;
+    }
+  }
+  @media (max-width: 430px) {
+    .carousel, .slide img{
+      max-width: 420px;
+      overflow: hidden;
     }
   }
   @media (max-width: 400px) {
     .carousel, .slide img {
       max-width: 380px;
+      overflow: hidden;
+    }
+  }
+  @media (max-width: 300px) {
+    .carousel, .slide img {
+      max-width: 280px;
+      overflow: hidden;
+    }
+  }
+  @media (max-width: 250px) {
+    .carousel, .slide img {
+      max-width: 240px;
       overflow: hidden;
     }
   }
