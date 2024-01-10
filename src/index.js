@@ -1,13 +1,32 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
+import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import './style/index.css';
-import App from './App';
 import reportWebVitals from './reportWebVitals';
+import Home from "./routes/Home";
+import FirstC from "./routes/FirstC";
+import SecondC from "./routes/SecondC";
+
+
+const router = createBrowserRouter([
+  {
+  path: "/",
+  element: <Home/>,
+  },
+  {
+    path: "FirstC",
+    element: <FirstC/>,
+  },
+  {
+    path: "SecondC",
+    element: <SecondC/>,
+  },
+]);
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <RouterProvider router={router}/>
   </React.StrictMode>
 );
 

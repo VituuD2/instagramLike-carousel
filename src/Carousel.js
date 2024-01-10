@@ -24,7 +24,7 @@ const Carousel = ({ imagesSrc }) => {
       >
         {imagesSrc.map((image, index) => (
           <div key={index} className="slide">
-            <img src={image} alt={`Image ${index}`} />
+            <img src={image} alt={`Carousel Image ${index}`} />
           </div>
         ))}
       </div>
