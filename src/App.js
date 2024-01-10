@@ -3,7 +3,7 @@ import './style/App.css';
 import './awesome6/css/all.css'
 // import Navbar from './Navbar';
 // import Carousel from './Carousel';
-import Home from "./routes/Home.js";
+import Home from "./routes/Home";
 import FirstC from "./routes/FirstC";
 import SecondC from "./routes/SecondC";
 import { BrowserRouter as Router, Routes, Route} from 'react-router-dom';
@@ -16,7 +16,7 @@ import { BrowserRouter as Router, Routes, Route} from 'react-router-dom';
 const App = () => {
   return (
     <div className="App">
-      <Router>
+      <Router basename="/instagramLike-carousel">
         <Routes>
           <Route path="/" element={<Home/>}></Route>
           <Route path="FirstC" element={<FirstC/>}></Route>

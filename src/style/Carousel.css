@@ -4,6 +4,7 @@
   overflow: hidden;
   max-width: 520px;
   max-height: 850px;
+  margin-top: 5vh;
 }
 
 .carousel-inner {
