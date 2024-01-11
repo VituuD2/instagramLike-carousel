@@ -1,0 +1,61 @@
+*{
+    text-decoration: none;
+}
+
+:root{
+    --font-familyDefault: 'chirp-normal', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }
+  
+  .PagesDefault {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+  }
+
+  .Button{
+    margin-top: 0.5rem;
+    border-radius: 8px;
+    font-family: var(--font-familyDefault);
+    color: #fff;
+    font-size: 16pt;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80px;
+    background-color: #1a1a1a;
+  }
+
+.Button:hover{
+    cursor: pointer;
+}
+
+  .Button a
+  {
+    cursor: pointer;
+    padding: 5px 7px 6px 7px;
+    color: #fff;
+  }
+
+  .Home{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+  }
+
+  .Home .Button{
+    margin: 30px 10px;
+    width: 140px;
+  }
+
+.Button:active{
+    background-color: rgb(201, 201, 201);
+    color: #1a1a1a;
+  }

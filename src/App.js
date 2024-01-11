@@ -6,6 +6,7 @@ import './awesome6/css/all.css'
 import Home from "./routes/Home";
 import FirstC from "./routes/FirstC";
 import SecondC from "./routes/SecondC";
+import ThirdC from "./routes/ThirdC";
 import { BrowserRouter as Router, Routes, Route} from 'react-router-dom';
 
 
@@ -21,6 +22,7 @@ const App = () => {
           <Route path="/" element={<Home/>}></Route>
           <Route path="FirstC" element={<FirstC/>}></Route>
           <Route path="SecondC" element={<SecondC/>}></Route>
+          <Route path="ThirdC" element={<ThirdC/>}></Route>
         </Routes>
       </Router>
       {/* <h1> <i className="fab fa-instagram"></i> Carousel tester </h1>
