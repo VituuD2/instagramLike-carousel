@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/instagramLike-carousel/static/css/main.240ba68b.chunk.css",
-    "main.js": "/instagramLike-carousel/static/js/main.f9f7bb01.chunk.js",
-    "main.js.map": "/instagramLike-carousel/static/js/main.f9f7bb01.chunk.js.map",
+    "main.js": "/instagramLike-carousel/static/js/main.aad7c3e6.chunk.js",
+    "main.js.map": "/instagramLike-carousel/static/js/main.aad7c3e6.chunk.js.map",
     "runtime-main.js": "/instagramLike-carousel/static/js/runtime-main.c4185e29.js",
     "runtime-main.js.map": "/instagramLike-carousel/static/js/runtime-main.c4185e29.js.map",
-    "static/js/2.3c5f41b4.chunk.js": "/instagramLike-carousel/static/js/2.3c5f41b4.chunk.js",
-    "static/js/2.3c5f41b4.chunk.js.map": "/instagramLike-carousel/static/js/2.3c5f41b4.chunk.js.map",
+    "static/js/2.1af6d2fb.chunk.js": "/instagramLike-carousel/static/js/2.1af6d2fb.chunk.js",
+    "static/js/2.1af6d2fb.chunk.js.map": "/instagramLike-carousel/static/js/2.1af6d2fb.chunk.js.map",
     "static/js/3.c42e2174.chunk.js": "/instagramLike-carousel/static/js/3.c42e2174.chunk.js",
     "static/js/3.c42e2174.chunk.js.map": "/instagramLike-carousel/static/js/3.c42e2174.chunk.js.map",
     "index.html": "/instagramLike-carousel/index.html",
-    "precache-manifest.d1c824eb96b3c5213750d8269796beb8.js": "/instagramLike-carousel/precache-manifest.d1c824eb96b3c5213750d8269796beb8.js",
+    "precache-manifest.a17e96dc7a2dc3f430680ef914f0cf5e.js": "/instagramLike-carousel/precache-manifest.a17e96dc7a2dc3f430680ef914f0cf5e.js",
     "service-worker.js": "/instagramLike-carousel/service-worker.js",
     "static/css/main.240ba68b.chunk.css.map": "/instagramLike-carousel/static/css/main.240ba68b.chunk.css.map",
-    "static/js/2.3c5f41b4.chunk.js.LICENSE.txt": "/instagramLike-carousel/static/js/2.3c5f41b4.chunk.js.LICENSE.txt",
+    "static/js/2.1af6d2fb.chunk.js.LICENSE.txt": "/instagramLike-carousel/static/js/2.1af6d2fb.chunk.js.LICENSE.txt",
     "static/media/1_01.png": "/instagramLike-carousel/static/media/1_01.2a263fdb.png",
     "static/media/1_02.png": "/instagramLike-carousel/static/media/1_02.845e13ba.png",
     "static/media/1_03.png": "/instagramLike-carousel/static/media/1_03.0aa48e15.png",
@@ -35,8 +35,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.c4185e29.js",
-    "static/js/2.3c5f41b4.chunk.js",
+    "static/js/2.1af6d2fb.chunk.js",
     "static/css/main.240ba68b.chunk.css",
-    "static/js/main.f9f7bb01.chunk.js"
+    "static/js/main.aad7c3e6.chunk.js"
   ]
 }
