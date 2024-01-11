@@ -8,7 +8,7 @@ const imagesSrc = importAll(require.context('../assets/2', false, /\.(png)$/));
 
 const SecondC = () => {
   return (
-    <div className='PagesDefaul'>
+    <div className='PagesDefault'>
       <Carousel imagesSrc={imagesSrc}/>
       <div className='Button'><Link to="/"><i class="fas fa-long-arrow-left"></i></Link></div>
     </div>
