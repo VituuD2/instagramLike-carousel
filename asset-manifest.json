@@ -1,24 +1,25 @@
 {
   "files": {
     "main.css": "/instagramLike-carousel/static/css/main.7d93aff5.chunk.css",
-    "main.js": "/instagramLike-carousel/static/js/main.a8b29cde.chunk.js",
-    "main.js.map": "/instagramLike-carousel/static/js/main.a8b29cde.chunk.js.map",
-    "runtime-main.js": "/instagramLike-carousel/static/js/runtime-main.c4185e29.js",
-    "runtime-main.js.map": "/instagramLike-carousel/static/js/runtime-main.c4185e29.js.map",
+    "main.js": "/instagramLike-carousel/static/js/main.e158ee9d.chunk.js",
+    "main.js.map": "/instagramLike-carousel/static/js/main.e158ee9d.chunk.js.map",
+    "runtime-main.js": "/instagramLike-carousel/static/js/runtime-main.18a13d5e.js",
+    "runtime-main.js.map": "/instagramLike-carousel/static/js/runtime-main.18a13d5e.js.map",
     "static/js/2.1af6d2fb.chunk.js": "/instagramLike-carousel/static/js/2.1af6d2fb.chunk.js",
     "static/js/2.1af6d2fb.chunk.js.map": "/instagramLike-carousel/static/js/2.1af6d2fb.chunk.js.map",
-    "static/js/3.c42e2174.chunk.js": "/instagramLike-carousel/static/js/3.c42e2174.chunk.js",
-    "static/js/3.c42e2174.chunk.js.map": "/instagramLike-carousel/static/js/3.c42e2174.chunk.js.map",
+    "static/js/3.7a825d44.chunk.js": "/instagramLike-carousel/static/js/3.7a825d44.chunk.js",
+    "static/js/3.7a825d44.chunk.js.map": "/instagramLike-carousel/static/js/3.7a825d44.chunk.js.map",
     "index.html": "/instagramLike-carousel/index.html",
-    "precache-manifest.4657447b824e7432f01e6f8f3115d563.js": "/instagramLike-carousel/precache-manifest.4657447b824e7432f01e6f8f3115d563.js",
+    "precache-manifest.5468083fc0a51ba992460b3acc7c1c91.js": "/instagramLike-carousel/precache-manifest.5468083fc0a51ba992460b3acc7c1c91.js",
     "service-worker.js": "/instagramLike-carousel/service-worker.js",
     "static/css/main.7d93aff5.chunk.css.map": "/instagramLike-carousel/static/css/main.7d93aff5.chunk.css.map",
     "static/js/2.1af6d2fb.chunk.js.LICENSE.txt": "/instagramLike-carousel/static/js/2.1af6d2fb.chunk.js.LICENSE.txt",
-    "static/media/1_01.png": "/instagramLike-carousel/static/media/1_01.2a263fdb.png",
-    "static/media/1_02.png": "/instagramLike-carousel/static/media/1_02.845e13ba.png",
-    "static/media/1_03.png": "/instagramLike-carousel/static/media/1_03.0aa48e15.png",
-    "static/media/1_04.png": "/instagramLike-carousel/static/media/1_04.ac41c6ef.png",
-    "static/media/1_05.png": "/instagramLike-carousel/static/media/1_05.eace8528.png",
+    "static/media/1_01.png": "/instagramLike-carousel/static/media/1_01.4c2b27fc.png",
+    "static/media/1_02.png": "/instagramLike-carousel/static/media/1_02.40bc95b3.png",
+    "static/media/1_03.png": "/instagramLike-carousel/static/media/1_03.ae7fe9e4.png",
+    "static/media/1_04.png": "/instagramLike-carousel/static/media/1_04.fb378c5d.png",
+    "static/media/1_05.png": "/instagramLike-carousel/static/media/1_05.7975532e.png",
+    "static/media/1_06.png": "/instagramLike-carousel/static/media/1_06.4a97def0.png",
     "static/media/3_01.png": "/instagramLike-carousel/static/media/3_01.9092a6e4.png",
     "static/media/3_02.png": "/instagramLike-carousel/static/media/3_02.5765f330.png",
     "static/media/3_03.png": "/instagramLike-carousel/static/media/3_03.c8b2a518.png",
@@ -34,9 +35,9 @@
     "static/media/all.css": "/instagramLike-carousel/static/media/fa-solid-900.fb2f4531.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.c4185e29.js",
+    "static/js/runtime-main.18a13d5e.js",
     "static/js/2.1af6d2fb.chunk.js",
     "static/css/main.7d93aff5.chunk.css",
-    "static/js/main.a8b29cde.chunk.js"
+    "static/js/main.e158ee9d.chunk.js"
   ]
 }
