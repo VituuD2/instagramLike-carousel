@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom';
 import '../style/PagesDefault.css';
 import Carousel from '../Carousel';
 
@@ -9,7 +10,7 @@ const FirstC = () => {
   return (
     <div className='PagesDefaul'>
       <Carousel imagesSrc={imagesSrc}/>
-      <div className='Button'><a href="./"><i class="fas fa-long-arrow-left"></i></a></div>
+      <div className='Button'><Link to="/"><i class="fas fa-long-arrow-left"></i></Link></div>
     </div>
     
   )

@@ -1,17 +1,18 @@
 import React from 'react'
+import { Link } from 'react-router-dom';
 import '../style/PagesDefault.css'
 
 const Home = () => {
   return (
     <div className='Home'>
       <div className='Button'>
-        <a href="./FirstC">1st Carousel</a>
+        <Link to="/FirstC">1st Carousel</Link>
       </div>
       <div className='Button'>
-        <a href="./SecondC">2nd Carousel</a>
+        <Link to="/SecondC">2nd Carousel</Link>
       </div>
       <div className='Button'>
-        <a href="./ThirdC">3rd Carousel</a>
+        <Link to="/ThirdC">3rd Carousel</Link>
       </div>
     </div>
   )
