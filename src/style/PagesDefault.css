@@ -3,7 +3,7 @@
 }
 
 :root{
-    --font-familyDefault: 'chirp-normal', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    --font-familyDefault:  -apple-system,'chirp-normal', BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   }
   
   .PagesDefault {
@@ -21,41 +21,61 @@
     border-radius: 8px;
     font-family: var(--font-familyDefault);
     color: #fff;
-    font-size: 16pt;
+    font-size: 1.1rem;
     display: flex;
     justify-content: center;
     align-items: center;
     width: 80px;
     background-color: #1a1a1a;
+    transition: all .2s ease;
   }
 
 .Button:hover{
+    background-color: #949494;
     cursor: pointer;
 }
 
-  .Button a
-  {
+.Button a:hover{
+    color: #1a1a1a;
+}
+
+.Button a{
     cursor: pointer;
     padding: 5px 7px 6px 7px;
     color: #fff;
   }
 
-  .Home{
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: center;
-    width: 100%;
-    height: 100%;
-    overflow: hidden;
-  }
-
-  .Home .Button{
-    margin: 30px 10px;
-    width: 140px;
-  }
-
+  
+.Home{
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: center;
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+    }
+    
+.Home .Button{
+        margin: 30px 10px;
+        width: 140px;
+    }
+    
 .Button:active{
-    background-color: rgb(201, 201, 201);
+        background-color: rgb(224, 143, 22);
+        color: #1a1a1a;
+}
+
+.Button a:active {
     color: #1a1a1a;
-  }
+}
+
+.approved{
+  background-color: #0dcc06 !important;
+  color: #1a1a1a !important;
+}
+
+.reproved{
+  background-color: #cc0606;
+  color: #5a5a5a;
+}
