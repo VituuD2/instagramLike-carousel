@@ -6,10 +6,10 @@ Este repositório contém uma aplicação React simples para mostrar carrosséis
 O projeto está organizado da seguinte forma:
 
 ### src
-### components: Contém componentes React.
-### style: Contém estilos CSS.
-### assets: Armazena imagens para os carrosséis.
-### routes: Define diferentes páginas/rotas.
+### components:### Contém componentes React.
+### style:### Contém estilos CSS.
+### assets:### Armazena imagens para os carrosséis.
+### routes:### Define diferentes páginas/rotas.
 ## Como Iniciar
 Para executar o aplicativo:
 
