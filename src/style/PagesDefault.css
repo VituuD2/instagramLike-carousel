@@ -47,15 +47,30 @@
 
   
 .Home{
-      display: flex;
-      flex-direction: row;
-      align-items: center;
-      justify-content: center;
-      width: 100%;
-      height: 100%;
-      overflow: hidden;
-    }
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.Value{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
     
+.Value .Button{
+    margin: 30px 10px;
+    width: 140px;
+  }
+
 .Home .Button{
         margin: 30px 10px;
         width: 140px;
@@ -79,3 +94,8 @@
   background-color: #cc0606;
   color: #5a5a5a;
 }
+
+.ValueButton{
+  background-color: #ff6226;
+  color: #5a5a5a;
+} 

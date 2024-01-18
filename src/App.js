@@ -8,6 +8,8 @@ import FirstC from "./routes/FirstC";
 import SecondC from "./routes/SecondC";
 import ThirdC from "./routes/ThirdC";
 import FourthC from "./routes/FourthC";
+import Value from "./routes/Value";
+import FirstV from "./routes/ValueFolder/FirstV";
 import { HashRouter, Routes, Route} from 'react-router-dom';
 
 
@@ -20,10 +22,12 @@ const App = () => {
     <HashRouter basename="/">
         <Routes>
           <Route path="/" element={<Home/>}></Route>
+          <Route path="Value" element={<Value/>}></Route>
           <Route path="FirstC" element={<FirstC/>}></Route>
           <Route path="SecondC" element={<SecondC/>}></Route>
           <Route path="ThirdC" element={<ThirdC/>}></Route>
           <Route path="FourthC" element={<FourthC/>}></Route>
+          <Route path="FirstV" element={<FirstV/>}></Route>
         </Routes>
       
       {/* <h1> <i className="fab fa-instagram"></i> Carousel tester </h1>
