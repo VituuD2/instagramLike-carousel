@@ -70,11 +70,11 @@
     margin: 30px 10px;
     width: 140px;
   }
-  
+
 .Home .Button{
-        margin: 30px 10px;
-        width: 140px;
-    }
+  margin: 30px 10px;
+  width: 140px;
+}
     
 .Button:active{
         background-color: rgb(224, 143, 22);

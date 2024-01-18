@@ -10,6 +10,7 @@ import ThirdC from "./routes/ThirdC";
 import FourthC from "./routes/FourthC";
 import Value from "./routes/Value";
 import FirstV from "./routes/ValueFolder/FirstV";
+import SecondV from "./routes/ValueFolder/SecondV";
 import { HashRouter, Routes, Route} from 'react-router-dom';
 
 
@@ -28,6 +29,7 @@ const App = () => {
           <Route path="ThirdC" element={<ThirdC/>}></Route>
           <Route path="FourthC" element={<FourthC/>}></Route>
           <Route path="FirstV" element={<FirstV/>}></Route>
+          <Route path="SecondV" element={<SecondV/>}></Route>
         </Routes>
       
       {/* <h1> <i className="fab fa-instagram"></i> Carousel tester </h1>

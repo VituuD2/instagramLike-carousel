@@ -11,7 +11,7 @@ const FirstV = () => {
   return (
     <div className='PagesDefault'>
     <Carousel imagesSrc={imagesSrc}/>
-    <div className='Button'><Link to="/"><i class="fas fa-long-arrow-left"></i></Link></div>
+    <div className='Button'><Link to="/Value"><i class="fas fa-long-arrow-left"></i></Link></div>
     </div>
   )
 }
