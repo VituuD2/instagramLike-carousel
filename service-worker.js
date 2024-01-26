@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/instagramLike-carousel/precache-manifest.75e1100fa05ef4e902b5f5a74e1af113.js"
+  "/instagramLike-carousel/precache-manifest.3c91e7a2eae8ed9771733f02009caa56.js"
 );
 
 self.addEventListener('message', (event) => {
