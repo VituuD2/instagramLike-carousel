@@ -8,11 +8,14 @@ const Value = () => {
         <h1>Value Agência</h1>
 
             <div className="main">
-                <div className="Button">
+                <div className="approved Button">
                     <Link to="/FirstV">1st Carousel</Link>
                 </div>
-                <div className="Button">
+                <div className="approved Button">
                     <Link to="/SecondV">2nd Carousel</Link>
+                </div>
+                <div className="Button">
+                    <Link to="/ThirdV">3rd Carousel</Link>
                 </div>
             </div>
 
