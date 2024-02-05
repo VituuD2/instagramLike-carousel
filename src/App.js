@@ -9,6 +9,7 @@ import SecondC from "./routes/SecondC";
 import ThirdC from "./routes/ThirdC";
 import FourthC from "./routes/FourthC";
 import FifthC from "./routes/FifthC";
+import SixthC from "./routes/SixthC";
 import Value from "./routes/Value";
 import FirstV from "./routes/ValueFolder/FirstV";
 import SecondV from "./routes/ValueFolder/SecondV";
@@ -31,6 +32,7 @@ const App = () => {
           <Route path="ThirdC" element={<ThirdC/>}></Route>
           <Route path="FourthC" element={<FourthC/>}></Route>
           <Route path="FifthC" element={<FifthC/>}></Route>
+          <Route path="SixthC" element={<SixthC/>}></Route>
           <Route path="FirstV" element={<FirstV/>}></Route>
           <Route path="SecondV" element={<SecondV/>}></Route>
           <Route path="ThirdV" element={<ThirdV/>}></Route>

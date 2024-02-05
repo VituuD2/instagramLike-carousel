@@ -18,8 +18,11 @@ const Home = () => {
         <div className='approved Button'>
           <Link to="/FourthC">4th Carousel</Link>
         </div>
-        <div className=' Button'>
+        <div className='approved Button'>
           <Link to="/FifthC">5th Carousel</Link>
+        </div>
+        <div className=' Button'>
+          <Link to="/SixthC">6th Carousel</Link>
         </div>
       </div>
 
